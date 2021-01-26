@@ -1,0 +1,1 @@
+This python script is for file handling automation to an existing s3 bucket. With this code you can upload any python or JSON files from your current directory to s3. 

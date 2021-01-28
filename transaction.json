@@ -1,0 +1,12 @@
+{
+    "Transactions": [
+        {
+            "TransactionType": "Purchase",
+            "Amount": "$777.77"
+        },
+        {
+            "TransactionType": "Refund",
+            "Amount": "$25.00"
+        }
+    ]
+}
